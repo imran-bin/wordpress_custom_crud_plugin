@@ -45,7 +45,7 @@ function overview_callback(){
 
 function searchbar_callback(){
   my_search_plugin_page();
-  echo "search";
+  echo "search bar setting";
 }
 
 function search_logic_callback(){
